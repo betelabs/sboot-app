@@ -5,7 +5,7 @@ on:
     branches: [ "main", "rel-*" ]
 
 env:
-  NAME: Ashwani
+  NAME: Ashwani-test
 
 jobs:
 
